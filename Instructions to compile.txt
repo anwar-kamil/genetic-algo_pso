@@ -1,0 +1,11 @@
+The attached files can be compiled and run using the following sequence of actions:
+
+Download the Python Source for your OS.
+
+2. Use this link: https://www.python.org/downloads/ to download Python if it is not installed on your computer.
+
+3. Use IDLE to run python:
+Open up IDLE (Python GUI), which should be installed on your computer after installing python. Click File and then Open. Find the python file you want to run, and open it. Once opened, select Run and click Run Module from the drop down menu.
+
+3. (Alternate) Use Terminal/Command Line to run python:
+Navigate to where the python file is stored, and type your program's name (GA_Final2.py or pso.py) with the extension (.py).
