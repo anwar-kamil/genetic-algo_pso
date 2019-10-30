@@ -2,5 +2,5 @@
 Implementation of Genetic Algorithms and particle swarm optimization algorithm on fashion-MNIST dataset
 
 Tools:
-Python
-Spyder
+1) Python
+2) Spyder
